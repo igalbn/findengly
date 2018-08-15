@@ -1,0 +1,48 @@
+/*  */
+/*:root {
+
+} */
+
+body {
+    background-color: azure;
+    margin: 0;
+}
+
+header {
+  text-align: center;
+  background-color: azure;
+}
+
+h1 {
+    margin-top: 0;
+    text-align: center;
+}
+
+pre {
+    font-size: 18px;
+}
+
+main {
+  background-color: azure;
+}
+
+
+
+
+
+div.search-buttons {
+    margin-top: 34px;
+    margin-left: 420px;
+}
+
+
+#searchengines img {
+    width: 140px;
+}
+
+#propertiesmenu img {
+    width: 70px;
+}
+
+/* footer {
+} */
